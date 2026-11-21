@@ -6,11 +6,11 @@ I used to work at SAP. Today I run [Lighthold](https://lighthold.io), my own sof
 
 - **[EVESTRI](https://evestri.com)**, a training app for hybrid racing and running: training plans, workout recording, health and nutrition tracking. It runs on the web, iPhone, Android, Apple Watch and Wear OS, and I build all of it myself, from the backend to the watch apps.
 - **Working with AI agents.** Most of my code is now written together with coding agents. I spend a good part of my time improving how they plan, test, review and ship, and on the checks that catch their mistakes before a user does.
-- **Client projects.** I help companies use AI in their day-to-day work, and I take on development projects, from a first prototype to an app in the stores.
+- **Client projects.** I help companies use AI in their day-to-day work, and I take on development projects.
 
 **What I use most**
 
-TypeScript, React, React Native with Expo, NestJS, PostgreSQL, Redis, Swift and Kotlin for the watch apps, Cloudflare and my own servers.
+TypeScript, React, React Native with Expo, NestJS, Swift and Kotlin for the watch apps, Cloudflare and my own servers.
 
 **Working together**
 
