@@ -1,6 +1,6 @@
 ### Hi, I'm Jens
 
-I used to work at SAP. Today I run [Lighthold](https://lighthold.io), my own software company in Saarbrücken, Germany.
+I used to work at SAP for 7 years. Today I run [Lighthold](https://lighthold.io), my own software company in Saarbrücken, Germany.
 
 **What I'm working on**
 
